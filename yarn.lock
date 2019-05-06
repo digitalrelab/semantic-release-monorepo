@@ -2,6 +2,14 @@
 # yarn lockfile v1
 
 
+"@digitalrelab/semantic-release-plugin-decorators@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@digitalrelab/semantic-release-plugin-decorators/-/semantic-release-plugin-decorators-1.0.0.tgz#52ee53473585ae8f4f3dfc10c319f3921a8d4a09"
+  integrity sha512-JZpvQlxwOJA0vNf00QxzG1y3C9y3TNMFTZ4TWVpStmJkxRC9gX4Q1UFB7xFfCgb1HT5FMyi2qCd3E2S7jpd4iA==
+  dependencies:
+    import-from "^2.1.0"
+    lodash "^4.17.4"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
